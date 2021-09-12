@@ -1,0 +1,6 @@
+base45==0.4.1
+cbor2==5.4.1
+cose==0.9.dev8
+cryptography==3.4.7
+cryptojwt==1.5.2
+qrcode[pil]
