@@ -1,4 +1,4 @@
-# Instagram Private API
+# Mysejahtera Private API
 
 A Python wrapper for the Mysejahtera private API
 
